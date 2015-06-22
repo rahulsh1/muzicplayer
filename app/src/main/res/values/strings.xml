@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Muzzic Player</string>
+    <string name="title_section1">Main</string>
+    <string name="title_section2">Destination</string>
+    <string name="title_section3">Advisory</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="select_stn"></string>
+    <string name="refresh">Reload</string>
+    <!--<string name="workinprogress">Available on Paid Version only</string>-->
+    <string name="refresh_progress">Refreshing..</string>
+    <string name="error_msg"><![CDATA[Please check your <br/>network connectivity <br/>or try after sometime.]]> </string>
+
+    
+
+</resources>
